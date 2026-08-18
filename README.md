@@ -1,5 +1,5 @@
 # catch_me_if_you_can_GAME
- Quantum educational game hunt the electron using Schrödinger's wave function. Built for unitaryHACK 2026.
+ Quantum educational game hunt the electron using Schrödinger's wave function 
 # 🌊 Ripple: The Electron Heist
 
 **A quantum educational game teaching Schrödinger's wave function, measurement collapse, and the uncertainty principle.**
